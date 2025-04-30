@@ -15,6 +15,9 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
+Here's a walkthrough of implemented user stories:
+
+<img src = 'https://github.com/Aarzoo-Bansal/iOS_101_prework/blob/main/iOS_101_Prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 [Guide]](https://github.com/Aarzoo-Bansal/iOS_101_prework/blob/main/iOS_101_Prework.gif) .
 
 ## App Brainstorming (Step 4)
